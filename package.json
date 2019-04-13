@@ -1,0 +1,26 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "Example of GraphQl using React for front-end, Express for back-end and MongoDb as data base.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "GraphQl",
+    "JS",
+    "React"
+  ],
+  "author": "Maycon Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1",
+    "mongoose": "^5.4.22"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

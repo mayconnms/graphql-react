@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "mayconnms",
+        "MONGO_PASSWORD": "VJ04fvcqmpwnrUDP",
+        "MONGO_DB": "events-db"
+    }
+}
